@@ -56,3 +56,9 @@ in these experiments.
 ![Ants vs Bees dataset](assets/ants_vs_bees.png)
 #### Cats vs Dogs dataset
 ![Ants vs Bees dataset](assets/cats_vs_dogs.png)
+
+
+### References
+1. [ResNet Model](https://pytorch.org/hub/pytorch_vision_resnet/)
+2. [Pytorch Tutorial Transfer Learning](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
+3. [A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning by Dipanjan (DJ) Sarkar](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
